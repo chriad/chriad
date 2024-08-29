@@ -1,5 +1,16 @@
-## Hi there 👋
-
+```text
+  ______________________________________
+ { whatis true | cut -d- -f2 | cut -c2- }
+  --------------------------------------
+       \  /\_.-^^^-._/\
+        \ \_         _/               
+         \ (     `o  `                
+          \ \      ` /                
+            (   D  ,"\_______         
+             ` ~ ," \         )\/\     
+              `""    ||----w |
+                     ||     ||
+```
 <!--
 **chriad/chriad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
